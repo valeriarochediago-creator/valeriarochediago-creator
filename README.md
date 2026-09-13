@@ -15,11 +15,6 @@ I'm a Systems and Computer Engineering student from Colombia, currently building
 
 I enjoy building things that combine **software, APIs, data, and AI** to solve practical problems.
 
-<!-- GIF animado -->
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80">
-</p>
-
 ---
 
 ### 🚀 What I'm working with
