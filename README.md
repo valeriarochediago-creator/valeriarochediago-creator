@@ -1,4 +1,13 @@
-# Hi, I'm Valeria 👋
+<!-- Encabezado -->
+<h1 align="center"> Hi, I'm <span style="color:#4CAF50;">Valeria Roche Diago</span>!</h1>
+<h3 align="center">💻 Systems and Computer Engineering Student | 🌱 Passionate about technology, creativity, and continuous learning</h3>
+
+<!-- GIF animado -->
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80">
+</p>
+
+---
 
 ### Systems & Computer Engineering Student · Backend Developer · AI & Automation
 
@@ -75,10 +84,12 @@ Exploring how AI agents can interact with APIs, tools and external services to a
   <a href="mailto:valeria.roche@email.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="(https://www.linkedin.com/in/valeria-roche-diago-0964a238a/)" target="_blank">
+  
+  <a href="https://www.linkedin.com/in/valeria-roche-diago-0964a238a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="(https://github.com/valeriarochediago-creator)" target="_blank">
+  
+  <a href="https://github.com/valeriarochediago-creator" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
